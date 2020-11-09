@@ -49,9 +49,11 @@ ul{
   display:none
 }
 
-#mainListItem-1{
-  background-color: green;
+#sub-list-1  {
+  width:400px;
 }
+
 .active{
-  display:block;
+  display:flex;
+  justify-content: space-between;
 }
